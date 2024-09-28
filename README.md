@@ -56,3 +56,7 @@ If you find this codebase helpful, please consider to cite:
   doi={10.1109/TGRS.2024.3438844}
 }
 ```
+
+## Acknowledgments
+
+We would like to acknowledge and express our gratitude to several repositories for their excellent work, including `SOOD`, `Soft Teacher`, `MMRotate`, among others.
